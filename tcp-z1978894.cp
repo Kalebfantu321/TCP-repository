@@ -1,13 +1,4 @@
-//***************************************************************************
-//
-//  Nathaniel McDuffie
-//  Z1978894
-//  CSCI 330 Section 1
-//
-//  I certify that this is my own work and where appropriate an extension 
-//  of the starter code provided for the assignment.
-//
-//***************************************************************************
+
 #include <unistd.h>
 #include <sys/types.h>
 #include <sys/stat.h>
